@@ -1,14 +1,14 @@
 <div align="center">
   <h3 align="center">React Native Job Finder App</h3>
   <div>
-    <a href="https://drive.google.com/file/d/1MdcuPc8uCNcJJ26raouTcO6EEWTNaXL3/view?usp=sharing" target="_blank">
-      <img src="https://drive.google.com/uc?id=1MdcuPc8uCNcJJ26raouTcO6EEWTNaXL3" alt="Home" width="300">
+    <a href="https://drive.google.com/file/d/100nVEvEDmPtwQhzGfPbqjEGnlz3YQgn4/view?usp=sharing" target="_blank">
+      <img src="https://drive.google.com/uc?id=100nVEvEDmPtwQhzGfPbqjEGnlz3YQgn4" alt="JD" width="300">
     </a>
     <a href="https://drive.google.com/file/d/1rRJtJEoLASGpNwBlYBO3XzbHp41Ny6ue/view?usp=sharing" target="_blank">
       <img src="https://drive.google.com/uc?id=1rRJtJEoLASGpNwBlYBO3XzbHp41Ny6ue" alt="Search" width="300">
     </a>
-    <a href="https://drive.google.com/file/d/100nVEvEDmPtwQhzGfPbqjEGnlz3YQgn4/view?usp=sharing" target="_blank">
-      <img src="https://drive.google.com/uc?id=100nVEvEDmPtwQhzGfPbqjEGnlz3YQgn4" alt="JD" width="300">
+    <a href="https://drive.google.com/file/d/1MdcuPc8uCNcJJ26raouTcO6EEWTNaXL3/view?usp=sharing" target="_blank">
+      <img src="https://drive.google.com/uc?id=1MdcuPc8uCNcJJ26raouTcO6EEWTNaXL3" alt="Home" width="300">
     </a>
   </div>
 </div>
