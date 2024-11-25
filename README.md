@@ -1,9 +1,9 @@
 <div align="center">
   <h3 align="center">React Native Job Finder App</h3>
   <div>
-    <img src="https://github.com/gauravbhaskar080/Job-App/assets/images/Home.jpg" alt="Home" >
-    <img src="https://github.com/gauravbhaskar080/Job-App/assets/images/Search.jpg" alt="Search" >
-    <img src="https://github.com/gauravbhaskar080/Job-App/assets/images/JD.jpg" alt="JD" >
+    <img src="https://github.com/gauravbhaskar080/Job-App/assets/images/Home.jpg" alt="Home" width="300">
+    <img src="https://github.com/gauravbhaskar080/Job-App/assets/images/Search.jpg" alt="Search" width="300">
+    <img src="https://github.com/gauravbhaskar080/Job-App/assets/images/JD.jpg" alt="JD" width="300">
   </div>
 </div>
 
